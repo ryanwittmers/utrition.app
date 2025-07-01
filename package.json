@@ -10,7 +10,7 @@
     "tailwind": "tailwindcss"
   },
   "dependencies": {
-    "@tailwindcss/cli": "^4.1.0",
+    "@tailwindcss/cli": "^4.1.8",
     "@vercel/speed-insights": "^1.2.0",
     "all": "^0.0.0",
     "class-variance-authority": "^0.7.1",

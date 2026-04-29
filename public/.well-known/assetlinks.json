@@ -1,0 +1,13 @@
+[{
+  "relation": [
+    "delegate_permission/common.handle_all_urls",
+    "delegate_permission/common.get_login_creds"
+  ],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ai.utrition.app",
+    "sha256_cert_fingerprints": [
+      "36:7C:D0:0C:6F:52:C2:DB:72:7F:50:5B:39:4C:A1:A5:94:98:D6:5D:43:80:CA:5D:C5:62:C9:24:4E:38:31:55"
+    ]
+  }
+}]
